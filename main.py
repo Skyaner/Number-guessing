@@ -3,9 +3,9 @@ import random
 
 print("This is a simple number guessing game.\n")
 print("Range: (min,max)\n")
-i = 1
 
-while i == 1:
+
+while TRUE:
     # input check
     try:
         min = int(input("Minimum: "))
